@@ -1,0 +1,2 @@
+DELETE FROM penguins
+WHERE sex NOT IN ('MALE', 'FEMALE');

@@ -1,0 +1,10 @@
+ALTER TABLE penguins
+DROP COLUMN studyname,
+DROP COLUMN sample_number,
+DROP COLUMN region,
+DROP COLUMN stage,
+DROP COLUMN individual_id,
+DROP COLUMN clutch_completion,
+DROP COLUMN date_egg,
+DROP COLUMN delta_15_n_o_oo,
+DROP COLUMN delta_13_c_o_oo;
